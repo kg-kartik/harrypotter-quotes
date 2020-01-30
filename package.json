@@ -1,0 +1,20 @@
+{
+  "name": "harrypotter-quotes",
+  "version": "1.0.0",
+  "description": "Fetches random Harry Potter Quotes in your CLI",
+  "bin": {
+    "quotes": "./bin/quotes.js"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "preferGlobal": true,
+  "author": "Kartik Goel",
+  "license": "ISC",
+  "dependencies": {
+    "cfonts": "^2.4.8",
+    "colors": "^1.4.0",
+    "os": "^0.1.1",
+    "yargs": "^15.1.0"
+  }
+}
