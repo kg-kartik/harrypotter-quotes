@@ -1,1 +1,0 @@
-const hello = require("./bin/quotes")
